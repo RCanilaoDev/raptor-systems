@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raptorconsultinggroup.com/sitemap.xml

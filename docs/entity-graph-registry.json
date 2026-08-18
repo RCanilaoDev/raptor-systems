@@ -1,0 +1,3270 @@
+{
+  "version": "16.08",
+  "base_url": "https://raptorconsultinggroup.com/",
+  "canonical_page_count": 39,
+  "nodes": [
+    {
+      "id": "https://raptorconsultinggroup.com/#logo",
+      "types": [
+        "ImageObject"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/",
+        "https://raptorconsultinggroup.com/about/",
+        "https://raptorconsultinggroup.com/about/ricardo-canilao/",
+        "https://raptorconsultinggroup.com/contact/",
+        "https://raptorconsultinggroup.com/insights/",
+        "https://raptorconsultinggroup.com/insights/commerce/",
+        "https://raptorconsultinggroup.com/insights/search/",
+        "https://raptorconsultinggroup.com/insights/web-operations/",
+        "https://raptorconsultinggroup.com/privacy-policy/",
+        "https://raptorconsultinggroup.com/services/",
+        "https://raptorconsultinggroup.com/services/commerce-systems/",
+        "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/",
+        "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/",
+        "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/",
+        "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/",
+        "https://raptorconsultinggroup.com/services/search-systems/",
+        "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/",
+        "https://raptorconsultinggroup.com/services/search-systems/local-search/",
+        "https://raptorconsultinggroup.com/services/search-systems/search-architecture/",
+        "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/",
+        "https://raptorconsultinggroup.com/services/search-systems/technical-seo/",
+        "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/",
+        "https://raptorconsultinggroup.com/services/web-operations/",
+        "https://raptorconsultinggroup.com/services/web-operations/website-development/",
+        "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/",
+        "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/",
+        "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/",
+        "https://raptorconsultinggroup.com/services/web-operations/website-production-management/",
+        "https://raptorconsultinggroup.com/terms/",
+        "https://raptorconsultinggroup.com/work/",
+        "https://raptorconsultinggroup.com/work/case-studies/",
+        "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/",
+        "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/",
+        "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/",
+        "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/",
+        "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/",
+        "https://raptorconsultinggroup.com/work/systems/",
+        "https://raptorconsultinggroup.com/work/systems/hqcp/",
+        "https://raptorconsultinggroup.com/work/systems/web-production-system/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/#organization",
+      "types": [
+        "Organization"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/",
+        "https://raptorconsultinggroup.com/about/",
+        "https://raptorconsultinggroup.com/about/ricardo-canilao/",
+        "https://raptorconsultinggroup.com/contact/",
+        "https://raptorconsultinggroup.com/insights/",
+        "https://raptorconsultinggroup.com/insights/commerce/",
+        "https://raptorconsultinggroup.com/insights/search/",
+        "https://raptorconsultinggroup.com/insights/web-operations/",
+        "https://raptorconsultinggroup.com/privacy-policy/",
+        "https://raptorconsultinggroup.com/services/",
+        "https://raptorconsultinggroup.com/services/commerce-systems/",
+        "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/",
+        "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/",
+        "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/",
+        "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/",
+        "https://raptorconsultinggroup.com/services/search-systems/",
+        "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/",
+        "https://raptorconsultinggroup.com/services/search-systems/local-search/",
+        "https://raptorconsultinggroup.com/services/search-systems/search-architecture/",
+        "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/",
+        "https://raptorconsultinggroup.com/services/search-systems/technical-seo/",
+        "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/",
+        "https://raptorconsultinggroup.com/services/web-operations/",
+        "https://raptorconsultinggroup.com/services/web-operations/website-development/",
+        "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/",
+        "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/",
+        "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/",
+        "https://raptorconsultinggroup.com/services/web-operations/website-production-management/",
+        "https://raptorconsultinggroup.com/terms/",
+        "https://raptorconsultinggroup.com/work/",
+        "https://raptorconsultinggroup.com/work/case-studies/",
+        "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/",
+        "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/",
+        "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/",
+        "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/",
+        "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/",
+        "https://raptorconsultinggroup.com/work/systems/",
+        "https://raptorconsultinggroup.com/work/systems/hqcp/",
+        "https://raptorconsultinggroup.com/work/systems/web-production-system/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/#website",
+      "types": [
+        "WebSite"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/",
+        "https://raptorconsultinggroup.com/about/",
+        "https://raptorconsultinggroup.com/about/ricardo-canilao/",
+        "https://raptorconsultinggroup.com/contact/",
+        "https://raptorconsultinggroup.com/insights/",
+        "https://raptorconsultinggroup.com/insights/commerce/",
+        "https://raptorconsultinggroup.com/insights/search/",
+        "https://raptorconsultinggroup.com/insights/web-operations/",
+        "https://raptorconsultinggroup.com/privacy-policy/",
+        "https://raptorconsultinggroup.com/services/",
+        "https://raptorconsultinggroup.com/services/commerce-systems/",
+        "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/",
+        "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/",
+        "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/",
+        "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/",
+        "https://raptorconsultinggroup.com/services/search-systems/",
+        "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/",
+        "https://raptorconsultinggroup.com/services/search-systems/local-search/",
+        "https://raptorconsultinggroup.com/services/search-systems/search-architecture/",
+        "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/",
+        "https://raptorconsultinggroup.com/services/search-systems/technical-seo/",
+        "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/",
+        "https://raptorconsultinggroup.com/services/web-operations/",
+        "https://raptorconsultinggroup.com/services/web-operations/website-development/",
+        "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/",
+        "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/",
+        "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/",
+        "https://raptorconsultinggroup.com/services/web-operations/website-production-management/",
+        "https://raptorconsultinggroup.com/terms/",
+        "https://raptorconsultinggroup.com/work/",
+        "https://raptorconsultinggroup.com/work/case-studies/",
+        "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/",
+        "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/",
+        "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/",
+        "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/",
+        "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/",
+        "https://raptorconsultinggroup.com/work/systems/",
+        "https://raptorconsultinggroup.com/work/systems/hqcp/",
+        "https://raptorconsultinggroup.com/work/systems/web-production-system/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/about/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/about/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/about/#webpage",
+      "types": [
+        "AboutPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/about/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/about/ricardo-canilao/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/about/ricardo-canilao/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "types": [
+        "Person"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/about/ricardo-canilao/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/about/ricardo-canilao/#webpage",
+      "types": [
+        "ProfilePage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/about/ricardo-canilao/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/contact/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/contact/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/contact/#webpage",
+      "types": [
+        "ContactPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/contact/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/insights/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/insights/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/insights/#categories",
+      "types": [
+        "ItemList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/insights/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/insights/#webpage",
+      "types": [
+        "CollectionPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/insights/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/insights/commerce/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/insights/commerce/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/insights/commerce/#webpage",
+      "types": [
+        "CollectionPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/insights/commerce/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/insights/search/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/insights/search/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/insights/search/#webpage",
+      "types": [
+        "CollectionPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/insights/search/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/insights/web-operations/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/insights/web-operations/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/insights/web-operations/#webpage",
+      "types": [
+        "CollectionPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/insights/web-operations/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/privacy-policy/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/privacy-policy/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/#webpage",
+      "types": [
+        "CollectionPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/commerce-systems/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/commerce-systems/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/commerce-systems/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/commerce-systems/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/commerce-systems/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/commerce-systems/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/local-search/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/local-search/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/local-search/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/local-search/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/local-search/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/local-search/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/search-architecture/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/search-architecture/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/search-architecture/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/technical-seo/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/technical-seo/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/technical-seo/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/website-development/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/website-development/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/website-development/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/website-development/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/website-development/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/website-development/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/website-production-management/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/#service",
+      "types": [
+        "Service"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/website-production-management/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/services/web-operations/website-production-management/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/terms/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/terms/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/#case-studies",
+      "types": [
+        "ItemList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/#webpage",
+      "types": [
+        "CollectionPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/#webpage",
+      "types": [
+        "CollectionPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/#article",
+      "types": [
+        "Article"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/#article",
+      "types": [
+        "Article"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#article",
+      "types": [
+        "Article"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#article",
+      "types": [
+        "Article"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#article",
+      "types": [
+        "Article"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/systems/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/systems/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/systems/#webpage",
+      "types": [
+        "CollectionPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/systems/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/systems/hqcp/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/systems/hqcp/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/systems/hqcp/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/systems/hqcp/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/systems/web-production-system/#breadcrumb",
+      "types": [
+        "BreadcrumbList"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/systems/web-production-system/"
+      ]
+    },
+    {
+      "id": "https://raptorconsultinggroup.com/work/systems/web-production-system/#webpage",
+      "types": [
+        "WebPage"
+      ],
+      "defined_on": [
+        "https://raptorconsultinggroup.com/work/systems/web-production-system/"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/#service",
+      "property": "itemOffered",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/#service",
+      "property": "itemOffered",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/#service",
+      "property": "itemOffered",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/#service",
+      "property": "itemOffered",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/local-search/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/#service",
+      "property": "itemOffered",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/#service",
+      "property": "itemOffered",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/local-search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/local-search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/local-search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/local-search/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/local-search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/local-search/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/local-search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/local-search/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/local-search/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/local-search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/local-search/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/local-search/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/local-search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/local-search/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/local-search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/local-search/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/local-search/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/local-search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/local-search/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/local-search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/local-search/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/local-search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/system-audit/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#service",
+      "page": "https://raptorconsultinggroup.com/services/search-systems/analytics-search-intelligence/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/#service",
+      "property": "itemOffered",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/#service",
+      "property": "itemOffered",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/#service",
+      "property": "itemOffered",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/#service",
+      "property": "itemOffered",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/search-architecture/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/structured-data-schema/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#service",
+      "page": "https://raptorconsultinggroup.com/services/commerce-systems/product-commerce-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/#service",
+      "property": "itemOffered",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/#service",
+      "property": "itemOffered",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/#service",
+      "property": "itemOffered",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-development/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/#service",
+      "property": "itemOffered",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/#service",
+      "property": "itemOffered",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-production-management/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-development/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-development/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-development/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-development/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-development/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-development/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-development/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-development/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-development/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-development/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-development/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/shopify-development/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-development/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/technical-seo/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-technical-optimization/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-development/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#service",
+      "property": "provider",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#service",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#webpage",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-portfolio-management/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/#service",
+      "property": "isRelatedTo",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/website-performance-optimization/#service",
+      "page": "https://raptorconsultinggroup.com/services/web-operations/website-migration-infrastructure/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/work/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/work/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/work/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/work/#case-studies",
+      "page": "https://raptorconsultinggroup.com/work/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/work/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/work/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#webpage",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#article",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#article",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#webpage",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#article",
+      "property": "author",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#article",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#article",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/#webpage",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#webpage",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#article",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#article",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#webpage",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#article",
+      "property": "author",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#article",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#article",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/#webpage",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#webpage",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#article",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#article",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#webpage",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#article",
+      "property": "author",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#article",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#article",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/#webpage",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/about/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/about/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/about/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/about/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/about/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/about/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/about/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/about/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/about/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/about/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/about/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/about/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/contact/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/contact/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/contact/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/contact/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/contact/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/contact/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/contact/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/contact/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/contact/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/contact/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/contact/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/contact/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/services/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/services/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/services/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/services/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/services/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/work/systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/work/systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/systems/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/work/systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/systems/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/systems/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/work/systems/web-production-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/work/systems/web-production-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/systems/web-production-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/systems/web-production-system/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/work/systems/web-production-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/systems/web-production-system/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/systems/web-production-system/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/work/systems/hqcp/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/work/systems/hqcp/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/systems/hqcp/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/systems/hqcp/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/work/systems/hqcp/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/systems/hqcp/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/systems/hqcp/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/about/ricardo-canilao/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/about/ricardo-canilao/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/about/ricardo-canilao/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "property": "worksFor",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/about/ricardo-canilao/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/about/ricardo-canilao/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/about/ricardo-canilao/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/about/ricardo-canilao/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/about/ricardo-canilao/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/about/ricardo-canilao/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/about/ricardo-canilao/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/about/ricardo-canilao/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/about/ricardo-canilao/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/insights/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/insights/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/insights/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/insights/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/insights/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/#webpage",
+      "property": "creator",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/insights/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/#webpage",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/insights/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/insights/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/insights/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/insights/#categories",
+      "page": "https://raptorconsultinggroup.com/insights/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/insights/search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/insights/search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/insights/search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/search/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/insights/search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/search/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/services/search-systems/#service",
+      "page": "https://raptorconsultinggroup.com/insights/search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/search/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/work/systems/hqcp/#webpage",
+      "page": "https://raptorconsultinggroup.com/insights/search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/search/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/specialized-accounting-search-architecture/#webpage",
+      "page": "https://raptorconsultinggroup.com/insights/search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/search/#webpage",
+      "property": "creator",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/insights/search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/search/#webpage",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/insights/search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/search/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/insights/search/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/insights/search/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/insights/commerce/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/insights/commerce/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/insights/commerce/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/commerce/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/insights/commerce/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/commerce/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/#service",
+      "page": "https://raptorconsultinggroup.com/insights/commerce/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/commerce/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/wordpress-shopify-commerce-system/#webpage",
+      "page": "https://raptorconsultinggroup.com/insights/commerce/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/commerce/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/services/commerce-systems/ecommerce-search-architecture/#service",
+      "page": "https://raptorconsultinggroup.com/insights/commerce/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/commerce/#webpage",
+      "property": "creator",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/insights/commerce/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/commerce/#webpage",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/insights/commerce/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/commerce/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/insights/commerce/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/insights/commerce/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/insights/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/insights/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/insights/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/web-operations/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/insights/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/web-operations/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/services/web-operations/#service",
+      "page": "https://raptorconsultinggroup.com/insights/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/web-operations/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/work/systems/web-production-system/#webpage",
+      "page": "https://raptorconsultinggroup.com/insights/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/web-operations/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/website-infrastructure-migration/#webpage",
+      "page": "https://raptorconsultinggroup.com/insights/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/web-operations/#webpage",
+      "property": "creator",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/insights/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/web-operations/#webpage",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/insights/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/insights/web-operations/#webpage",
+      "property": "breadcrumb",
+      "target": "https://raptorconsultinggroup.com/insights/web-operations/#breadcrumb",
+      "page": "https://raptorconsultinggroup.com/insights/web-operations/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/privacy-policy/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/privacy-policy/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/privacy-policy/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/privacy-policy/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/privacy-policy/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/privacy-policy/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/privacy-policy/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/terms/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/terms/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/terms/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/terms/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/terms/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/terms/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/terms/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/#article",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/#article",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/#webpage",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/#article",
+      "property": "author",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/#article",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/#article",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/#webpage",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/complex-local-service-search-architecture/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "founder",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#organization",
+      "property": "logo",
+      "target": "https://raptorconsultinggroup.com/#logo",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/#website",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/#webpage",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/#website",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/#webpage",
+      "property": "about",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/#webpage",
+      "property": "mainEntity",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/#article",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/#article",
+      "property": "mainEntityOfPage",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/#webpage",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/#article",
+      "property": "author",
+      "target": "https://raptorconsultinggroup.com/about/ricardo-canilao/#person",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/#article",
+      "property": "publisher",
+      "target": "https://raptorconsultinggroup.com/#organization",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/"
+    },
+    {
+      "source": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/#article",
+      "property": "isPartOf",
+      "target": "https://raptorconsultinggroup.com/work/case-studies/#webpage",
+      "page": "https://raptorconsultinggroup.com/work/case-studies/high-volume-website-production/"
+    }
+  ]
+}
