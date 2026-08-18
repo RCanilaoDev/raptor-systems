@@ -11,8 +11,18 @@
     if (!open && servicesDisclosure) servicesDisclosure.open = false;
   };
 
+  let lastToggleAt = -Infinity;
+
   toggle.addEventListener('click', (event) => {
     event.stopPropagation();
+
+    const now = performance.now();
+    if (now - lastToggleAt < 350) {
+      event.preventDefault();
+      return;
+    }
+
+    lastToggleAt = now;
     setOpen(toggle.getAttribute('aria-expanded') !== 'true');
   });
 
