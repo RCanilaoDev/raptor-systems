@@ -5806,3 +5806,13 @@ body {
     content: "↗";
   }
 }
+
+/* =========================================================
+   BUILD 16.26 // ACTIVE PRIMARY NAVIGATION
+   ========================================================= */
+.site-header .primary-nav > a.is-active,
+.site-header .nav-services > summary.is-active,
+.site-header .services-menu a.is-active {
+  color: var(--blue);
+  text-shadow: 0 0 16px rgba(63, 155, 233, .28);
+}
