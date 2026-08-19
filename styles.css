@@ -5776,3 +5776,33 @@ body {
   .services-menu { position:static; width:100%; margin-top:8px; grid-template-columns:1fr; box-shadow:none; }
   .services-menu>div { padding:15px; }
 }
+
+/* =========================================================
+   BUILD 16.25 // CENTER MOBILE SERVICES + EXPANSION ARROW
+   ========================================================= */
+@media (max-width: 1220px) {
+  .site-header .nav-services > summary {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 14px 12px;
+    text-align: center;
+    color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    letter-spacing: inherit;
+  }
+
+  .site-header .nav-services > summary::after {
+    content: "↘";
+    color: var(--cyan);
+    font-size: 1.05em;
+    line-height: 1;
+  }
+
+  .site-header .nav-services[open] > summary::after {
+    content: "↗";
+  }
+}
