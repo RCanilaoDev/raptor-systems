@@ -11,3 +11,5 @@
 #search-topics .search-insights-head{align-items:start}#search-topics .search-insights-head>p{align-self:start}
 /* BUILD 16.30 // COMMERCE INSIGHTS SECTION 2 TOP ALIGNMENT */
 #commerce-topics .commerce-insights-head{align-items:start}#commerce-topics .commerce-insights-head>p{align-self:start}
+/* BUILD 16.31 // WEB OPERATIONS INSIGHTS SECTION 2 TOP ALIGNMENT */
+#webops-topics .webops-insights-head{align-items:start}#webops-topics .webops-insights-head>p{align-self:start}
