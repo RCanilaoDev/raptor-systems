@@ -6099,3 +6099,14 @@ body {
     padding: 19px 18px 17px;
   }
 }
+
+/* =========================================================
+   BUILD 16.29 // SEARCH INSIGHTS SECTION 2 TOP ALIGNMENT
+   ========================================================= */
+#search-topics .search-insights-head {
+  align-items: start;
+}
+
+#search-topics .search-insights-head > p {
+  align-self: start;
+}
