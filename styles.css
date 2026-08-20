@@ -6589,3 +6589,19 @@ body {
     min-height: 190px;
   }
 }
+
+
+/* =========================================================
+   BUILD 16.34 // MOBILE MENU TAP STABILITY
+   ========================================================= */
+@media (max-width: 1220px) {
+  .menu-toggle {
+    min-width: 88px;
+    min-height: 44px;
+    justify-content: flex-end;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+}
