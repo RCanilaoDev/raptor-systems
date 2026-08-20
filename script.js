@@ -2,6 +2,7 @@
   const toggle = document.querySelector('.menu-toggle');
   const nav = document.querySelector('#primary-nav');
   const servicesDisclosure = document.querySelector('.nav-services');
+  const navShell = document.querySelector('.nav-shell');
   if (!toggle || !nav) return;
 
   /* BUILD 16.26 // ACTIVE PRIMARY NAVIGATION */
@@ -46,11 +47,22 @@
     link.setAttribute('aria-current', 'page');
   });
 
+  const positionMobileNav = () => {
+    if (window.innerWidth > 1220 || !navShell) {
+      nav.style.removeProperty('--mobile-nav-top');
+      return;
+    }
+    const shellBottom = navShell.getBoundingClientRect().bottom;
+    nav.style.setProperty('--mobile-nav-top', `${Math.max(8, shellBottom + 8)}px`);
+  };
+
   const setOpen = (open) => {
+    if (open) positionMobileNav();
     toggle.setAttribute('aria-expanded', String(open));
     nav.classList.toggle('open', open);
     nav.classList.toggle('is-open', open);
     document.body.classList.toggle('mobile-nav-open', open && window.innerWidth <= 1220);
+    if (!open) nav.style.removeProperty('--mobile-nav-top');
     if (!open && servicesDisclosure) servicesDisclosure.open = false;
   };
 
