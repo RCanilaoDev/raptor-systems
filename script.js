@@ -50,28 +50,22 @@
     toggle.setAttribute('aria-expanded', String(open));
     nav.classList.toggle('open', open);
     nav.classList.toggle('is-open', open);
-    document.body.classList.toggle('mobile-nav-open', open && window.innerWidth <= 1220);
     if (!open && servicesDisclosure) servicesDisclosure.open = false;
   };
 
   let lastToggleAt = -Infinity;
-  let menuOpenedAt = -Infinity;
 
   toggle.addEventListener('click', (event) => {
     event.stopPropagation();
 
     const now = performance.now();
-    const isOpen = toggle.getAttribute('aria-expanded') === 'true';
-
-    /* BUILD 16.34 // MOBILE MENU TAP STABILITY */
-    if (now - lastToggleAt < 500 || (isOpen && now - menuOpenedAt < 900)) {
+    if (now - lastToggleAt < 350) {
       event.preventDefault();
       return;
     }
 
     lastToggleAt = now;
-    if (!isOpen) menuOpenedAt = now;
-    setOpen(!isOpen);
+    setOpen(toggle.getAttribute('aria-expanded') !== 'true');
   });
 
   nav.addEventListener('click', (event) => {
