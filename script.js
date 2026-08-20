@@ -76,7 +76,8 @@
     if (
       toggle.getAttribute('aria-expanded') === 'true' &&
       !nav.contains(event.target) &&
-      !toggle.contains(event.target)
+      !toggle.contains(event.target) &&
+      !event.target.closest('.site-header')
     ) {
       setOpen(false);
     }
