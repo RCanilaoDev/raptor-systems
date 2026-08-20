@@ -54,18 +54,23 @@
   };
 
   let lastToggleAt = -Infinity;
+  let menuOpenedAt = -Infinity;
 
   toggle.addEventListener('click', (event) => {
     event.stopPropagation();
 
     const now = performance.now();
-    if (now - lastToggleAt < 350) {
+    const isOpen = toggle.getAttribute('aria-expanded') === 'true';
+
+    /* BUILD 16.34 // MOBILE MENU TAP STABILITY */
+    if (now - lastToggleAt < 500 || (isOpen && now - menuOpenedAt < 900)) {
       event.preventDefault();
       return;
     }
 
     lastToggleAt = now;
-    setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+    if (!isOpen) menuOpenedAt = now;
+    setOpen(!isOpen);
   });
 
   nav.addEventListener('click', (event) => {
