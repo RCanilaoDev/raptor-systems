@@ -50,6 +50,7 @@
     toggle.setAttribute('aria-expanded', String(open));
     nav.classList.toggle('open', open);
     nav.classList.toggle('is-open', open);
+    document.body.classList.toggle('mobile-nav-open', open && window.innerWidth <= 1220);
     if (!open && servicesDisclosure) servicesDisclosure.open = false;
   };
 
