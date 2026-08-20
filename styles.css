@@ -6597,3 +6597,21 @@ body.mobile-nav-open {
   overflow: hidden;
   overscroll-behavior: none;
 }
+
+
+/* BUILD 16.37 // VIEWPORT-ANCHORED MOBILE MENU
+   Keep the dropdown beneath the visible sticky header at any scroll depth. */
+@media (max-width: 1220px) {
+  .site-header .primary-nav.open,
+  .site-header .primary-nav.is-open {
+    position: fixed;
+    top: var(--mobile-nav-top, 88px);
+    left: 8px;
+    right: 8px;
+    width: auto;
+    max-height: calc(100dvh - var(--mobile-nav-top, 88px) - 12px);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    z-index: 2000;
+  }
+}
