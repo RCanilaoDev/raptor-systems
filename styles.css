@@ -6605,3 +6605,10 @@ body {
     user-select: none;
   }
 }
+
+
+/* BUILD 16.35 // SCROLL-SAFE MOBILE MENU LOCK */
+body.mobile-nav-open {
+  overflow: hidden;
+  overscroll-behavior: none;
+}
