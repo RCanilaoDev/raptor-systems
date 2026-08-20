@@ -6589,3 +6589,11 @@ body {
     min-height: 190px;
   }
 }
+
+
+/* BUILD 16.36 // SCROLL-SAFE MOBILE MENU
+   Lock background scrolling without repositioning the sticky header. */
+body.mobile-nav-open {
+  overflow: hidden;
+  overscroll-behavior: none;
+}
