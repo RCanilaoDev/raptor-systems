@@ -60,7 +60,7 @@
     if (open) positionMobileNav();
     toggle.setAttribute('aria-expanded', String(open));
     nav.classList.toggle('open', open);
-    nav.classList.toggle('is-open', open);
+    nav.classList.toggle('is-open', open);\n    if (navShell) navShell.classList.toggle('mobile-nav-active', open && window.innerWidth <= 1220);
     document.body.classList.toggle('mobile-nav-open', open && window.innerWidth <= 1220);
     if (!open) nav.style.removeProperty('--mobile-nav-top');
     if (!open && servicesDisclosure) servicesDisclosure.open = false;
