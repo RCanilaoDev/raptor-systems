@@ -6625,3 +6625,9 @@ body.mobile-nav-open {
 .hqcp-boundary-title{display:flex;align-items:baseline;justify-content:flex-start;gap:0}.hqcp-boundary-title b{display:inline-block;flex:0 0 auto}
 .hqcp-boundary-ghost{display:inline-block;margin-left:9px;color:rgba(103,201,255,.28);font-size:8px;font-weight:800;letter-spacing:.1em;text-align:left;text-transform:uppercase}
 @media (max-width:560px){.hqcp-boundary-ghost{display:none}}
+
+/* BUILD 16.44 // CTA TO FOOTER BACKGROUND CONTINUITY */
+.home-page #contact,.contact-page .contact-final{border:0;background:radial-gradient(circle at 50% 100%,rgba(32,112,177,.09),transparent 38%),linear-gradient(180deg,rgba(4,10,17,.68),rgba(4,10,17,.68))}
+.home-page #contact{width:100%;max-width:none;padding-right:20px;padding-left:20px}
+.home-page #contact .contact-panel{width:min(var(--max),100%);margin-inline:auto}
+.home-page .site-footer.site-footer-expanded,.contact-page .site-footer.site-footer-expanded{border-top:0}
