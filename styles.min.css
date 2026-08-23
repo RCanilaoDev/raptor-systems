@@ -18,3 +18,8 @@
 @media (max-width:1220px){.site-header .nav-shell.mobile-nav-active,.site-header.is-compact .nav-shell.mobile-nav-active{-webkit-backdrop-filter:none;backdrop-filter:none}.site-header .primary-nav.open,.site-header .primary-nav.is-open{position:fixed;top:var(--mobile-nav-top,88px);left:8px;right:8px;width:auto;max-height:calc(100dvh - var(--mobile-nav-top,88px) - 12px);overflow-y:auto;overscroll-behavior:contain;z-index:2000}}
 
 /* MOBILE HOMEPAGE CTA COPY */.contact-number-mobile{display:none}@media (max-width:560px){.contact-number-desktop{display:none}.contact-number-mobile{display:inline}}
+
+/* BUILD 16.40 // HQCP BOUNDARY GHOST LABEL */
+.hqcp-boundary-title{display:flex;align-items:baseline;justify-content:space-between;gap:16px}
+.hqcp-boundary-ghost{color:rgba(103,201,255,.28);font-size:8px;font-weight:800;letter-spacing:.1em;text-align:right;text-transform:uppercase}
+@media (max-width:560px){.hqcp-boundary-title{gap:10px}.hqcp-boundary-ghost{max-width:150px;font-size:7px;line-height:1.35}}
