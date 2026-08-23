@@ -5297,7 +5297,7 @@ body {
 }
 
 .site-header.is-compact::after {
-  height: 2px;
+  height: 1px;
   opacity: .82;
   box-shadow:
     0 0 10px rgba(63,155,233,.30),
