@@ -6631,3 +6631,7 @@ body.mobile-nav-open {
 .home-page #contact{width:100%;max-width:none;padding-right:20px;padding-left:20px}
 .home-page #contact .contact-panel{width:min(var(--max),100%);margin-inline:auto}
 .home-page .site-footer.site-footer-expanded,.contact-page .site-footer.site-footer-expanded{border-top:0}
+
+/* BUILD 16.45 // MOBILE FOOTER BIRD SCALE AND POSITION */
+@media (max-width:700px){.home-page .footer-split-logo__bird,.home-page .footer-brand-mark .footer-split-logo__bird,.contact-page .footer-split-logo__bird,.contact-page .footer-brand-mark .footer-split-logo__bird{width:clamp(133px,28.38vw,231px);max-width:231px;bottom:clamp(77px,15.44vw,138px)}}
+@media (max-width:520px){.home-page .footer-split-logo__bird,.home-page .footer-brand-mark .footer-split-logo__bird,.contact-page .footer-split-logo__bird,.contact-page .footer-brand-mark .footer-split-logo__bird{width:111px;max-width:111px;bottom:59px}}
