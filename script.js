@@ -213,30 +213,49 @@
 
 
 /* =========================================================
-   BUILD 15.62 // CONTACT PRIVACY
-   Direct call/text links are generated at runtime so the phone
-   number is not exposed as visible text or a tel:/sms: URI in HTML.
+   BUILD 16.51 // CONTACT PRIVACY
+   Call/text/email links are generated at runtime so contact
+   details are not exposed as tel:/sms:/mailto: URIs in HTML.
+   This also avoids Cloudflare Email Obfuscation injecting
+   email-decode.min.js on the critical path.
    ========================================================= */
 (() => {
-  const encodedContact = 'KzE3MDI1MjExMTMx';
+  const encodedPhone = 'KzE3MDI1MjExMTMx';
+  const encodedEmail = 'cmFwdG9yc3lzdGVtcy5haUBnbWFpbC5jb20=';
 
-  const decodeContact = () => {
+  const decode = (value) => {
     try {
-      return window.atob(encodedContact);
+      return window.atob(value);
     } catch (error) {
       return '';
     }
   };
 
+  const phone = decode(encodedPhone);
+  const email = decode(encodedEmail);
+
   document.querySelectorAll('[data-contact-action]').forEach((link) => {
+    const action = link.dataset.contactAction;
+    if (action === 'email' && email && link.dataset.contactReveal === 'address') {
+      link.textContent = email;
+    }
+
     link.addEventListener('click', (event) => {
       event.preventDefault();
-      const number = decodeContact();
-      if (!number) return;
-      if (link.dataset.contactAction === 'call') {
-        window.location.href = `tel:${number}`;
-      } else if (link.dataset.contactAction === 'text') {
-        window.location.href = `sms:${number}`;
+      if (action === 'call') {
+        if (!phone) return;
+        window.location.href = `tel:${phone}`;
+        return;
+      }
+      if (action === 'text') {
+        if (!phone) return;
+        window.location.href = `sms:${phone}`;
+        return;
+      }
+      if (action === 'email') {
+        if (!email) return;
+        const subject = link.dataset.emailSubject || 'Raptor Consulting Inquiry';
+        window.location.href = `mailto:${email}?subject=${encodeURIComponent(subject)}`;
       }
     });
   });
