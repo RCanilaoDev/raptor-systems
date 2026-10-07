@@ -60,7 +60,8 @@
     if (open) positionMobileNav();
     toggle.setAttribute('aria-expanded', String(open));
     nav.classList.toggle('open', open);
-    nav.classList.toggle('is-open', open);\n    if (navShell) navShell.classList.toggle('mobile-nav-active', open && window.innerWidth <= 1220);
+    nav.classList.toggle('is-open', open);
+    if (navShell) navShell.classList.toggle('mobile-nav-active', open && window.innerWidth <= 1220);
     document.body.classList.toggle('mobile-nav-open', open && window.innerWidth <= 1220);
     if (!open) nav.style.removeProperty('--mobile-nav-top');
     if (!open && servicesDisclosure) servicesDisclosure.open = false;
@@ -239,4 +240,36 @@
       }
     });
   });
+})();
+
+
+/* =========================================================
+   BUILD 16.50 // RETURN TO TOP
+   #top lives on the sticky site header, so native hash
+   navigation is a no-op once the header is in view.
+   ========================================================= */
+(() => {
+  const links = document.querySelectorAll('a[href="#top"], a[href="/#top"]');
+  if (!links.length) return;
+
+  const header = document.getElementById('top');
+  if (header && !header.hasAttribute('tabindex')) {
+    header.setAttribute('tabindex', '-1');
+  }
+
+  const goTop = (event) => {
+    event.preventDefault();
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    window.scrollTo({ top: 0, left: 0, behavior: reduceMotion ? 'auto' : 'smooth' });
+    if (header) {
+      try { header.focus({ preventScroll: true }); } catch (_) { header.focus(); }
+    }
+    if (history.replaceState) {
+      history.replaceState(null, '', `${window.location.pathname}${window.location.search}#top`);
+    } else {
+      window.location.hash = 'top';
+    }
+  };
+
+  links.forEach((link) => link.addEventListener('click', goTop));
 })();
