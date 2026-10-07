@@ -215,6 +215,20 @@ h3 { font-size: 21px; line-height: 1.16; }
 .delay-3 { animation-delay: .36s; }
 @keyframes reveal { to { opacity: 1; transform: translateY(0); } }
 
+/* Batch A // LCP: above-the-fold heroes paint immediately */
+.hero .reveal,
+.service-hero .reveal,
+.search-hero .reveal,
+.contact-hero .reveal,
+.about-hero .reveal,
+.case-hero .reveal,
+.audit-hero .reveal,
+.proof-hero .reveal {
+  opacity: 1;
+  transform: none;
+  animation: none;
+}
+
 @media (max-width: 1040px) {
   .primary-nav { gap: 14px; font-size: 10px; }
   .hero-grid { grid-template-columns: 1fr; }
