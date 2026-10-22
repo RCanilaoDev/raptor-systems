@@ -1,5 +1,4 @@
-/* Funnel events contain no names, email addresses, website URLs, or form values.
-   Load Clarity once through the existing GTM container after configuration. */
+/* Campaign events never contain form values or personal information. */
 (() => {
   const prefix = '/website-optimization/';
   const path = location.pathname;
@@ -10,6 +9,18 @@
     if (path.startsWith(prefix)) sessionStorage.setItem('raptor_optimization_funnel', '1');
     if (isContact && sessionStorage.getItem('raptor_optimization_funnel') === '1') active = true;
   } catch (_) { /* URL attribution still works when storage is unavailable. */ }
+  // Record all contact visits, but only attribute campaign events to campaign visitors.
+  if (path.startsWith(prefix) || isContact) {
+    if (!window.clarity) {
+      window.clarity = function () { (window.clarity.q = window.clarity.q || []).push(arguments); };
+    }
+    if (!document.querySelector('script[src*="clarity.ms/tag/"]')) {
+      const script = document.createElement('script');
+      script.async = true;
+      script.src = 'https://www.clarity.ms/tag/yx5u4ujbkh';
+      document.head.appendChild(script);
+    }
+  }
   if (!active) return;
   const stage = isContact ? 'contact' : path === prefix || path === prefix + 'index.html' ? 'landing' : 'service';
   function track(event, extra = {}) {
@@ -31,7 +42,8 @@
     if (destination.pathname === '/contact/') track('optimization_consultation_click');
     else if (destination.pathname === prefix + 'services/') track('optimization_service_click');
   });
-  // A future form adapter must emit this only after a server confirms delivery.
+  document.addEventListener('raptor:consultation-start', () => track('optimization_form_start'), { once: true });
+  // The form adapter emits success only after Web3Forms confirms acceptance.
   // A button click, validation pass, or browser submit event is not a confirmed lead.
   document.addEventListener('raptor:consultation-success', () => track('optimization_form_success'), { once: true });
 })();
