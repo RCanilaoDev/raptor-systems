@@ -6695,3 +6695,18 @@ body.mobile-nav-open {
     border-bottom-color:transparent;
   }
 }
+
+/* BUILD 16.57 // MOBILE STICKY MENU ANCHOR FIX
+   A fixed menu inside the blurred sticky header can use the header as its
+   containing block after scrolling. Anchor the panel to nav-shell instead. */
+@media (max-width:1220px){
+  .site-header .primary-nav.open,
+  .site-header .primary-nav.is-open{
+    position:absolute;
+    top:calc(100% + 8px);
+    left:0;
+    right:0;
+    width:auto;
+    max-height:calc(100dvh - var(--mobile-nav-top,88px) - 12px);
+  }
+}
