@@ -6678,3 +6678,20 @@ body.mobile-nav-open {
     z-index:120;
   }
 }
+
+/* BUILD 16.56 // STICKY EDGE BEHIND OPEN SERVICES MENU
+   The sticky blue edge lives on the header pseudo-element, outside the
+   dropdown's stacking context. Lower it only while the menu is open. */
+@media (min-width:1221px){
+  .site-header:has(.nav-services[open])::after{
+    z-index:0;
+    opacity:0;
+    box-shadow:none;
+  }
+
+  .site-header:has(.nav-services[open]) .nav-shell{
+    position:relative;
+    z-index:1;
+    border-bottom-color:transparent;
+  }
+}

@@ -749,3 +749,9 @@ h3 { font-size: 21px; line-height: 1.16; }
   .site-header .nav-services,.site-header .nav-services[open]{z-index:110}
   .site-header .services-menu{z-index:120}
 }
+
+/* BUILD 16.56 // STICKY EDGE BEHIND OPEN SERVICES MENU */
+@media (min-width:1221px){
+  .site-header:has(.nav-services[open])::after{z-index:0;opacity:0;box-shadow:none}
+  .site-header:has(.nav-services[open]) .nav-shell{position:relative;z-index:1;border-bottom-color:transparent}
+}
