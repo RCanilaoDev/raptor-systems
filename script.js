@@ -169,16 +169,22 @@
 })();
 
 
-/* BUILD 15.37 // compact sticky header */
+/* BUILD 16.52 // scroll-stable compact sticky header */
 (() => {
   const header = document.querySelector('.site-header');
   if (!header) return;
 
-  const COMPACT_AT = 96;
+  const COMPACT_ENTER_AT = 160;
+  const COMPACT_EXIT_AT = 40;
   let ticking = false;
 
   const updateHeader = () => {
-    header.classList.toggle('is-compact', window.scrollY >= COMPACT_AT);
+    const isCompact = header.classList.contains('is-compact');
+    if (!isCompact && window.scrollY >= COMPACT_ENTER_AT) {
+      header.classList.add('is-compact');
+    } else if (isCompact && window.scrollY <= COMPACT_EXIT_AT) {
+      header.classList.remove('is-compact');
+    }
     ticking = false;
   };
 
