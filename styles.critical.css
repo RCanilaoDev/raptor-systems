@@ -733,3 +733,12 @@ h3 { font-size: 21px; line-height: 1.16; }
   color: var(--blue);
   text-shadow: 0 0 14px rgba(63,155,233,.24);
 }
+
+/* BUILD 16.54 // DESKTOP SERVICES DROPDOWN CLIP FIX */
+@media (min-width:1221px){
+  .site-header .nav-shell,
+  .site-header.is-compact .nav-shell{
+    clip-path:none;
+    overflow:visible;
+  }
+}
