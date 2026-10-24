@@ -6696,10 +6696,17 @@ body.mobile-nav-open {
   }
 }
 
-/* BUILD 16.57 // MOBILE STICKY MENU ANCHOR FIX
+/* BUILD 16.58 // MOBILE STICKY MENU ANCHOR FIX
    A fixed menu inside the blurred sticky header can use the header as its
    containing block after scrolling. Anchor the panel to nav-shell instead. */
 @media (max-width:1220px){
+  body.mobile-nav-open .site-header{
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    width:100%;
+  }
   .site-header .primary-nav.open,
   .site-header .primary-nav.is-open{
     position:absolute;
