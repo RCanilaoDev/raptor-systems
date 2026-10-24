@@ -4,6 +4,48 @@
   const path = location.pathname;
   const isContact = path === '/contact/' || path === '/contact/index.html';
   const fromOffer = new URLSearchParams(location.search).get('source') === 'website-optimization';
+  const consultation = document.getElementById('consultation');
+
+  /* Keep consultation links out of the browser's smooth-scroll paint path.
+     The instant, offset-aware jump prevents a blank frame in some browsers
+     and moves keyboard focus to the destination without opening a form field. */
+  if (consultation) {
+    const showConsultation = (updateHistory) => {
+      const scrollMargin = parseFloat(getComputedStyle(consultation).scrollMarginTop) || 0;
+      const top = Math.max(0, window.scrollY + consultation.getBoundingClientRect().top - scrollMargin);
+
+      if (updateHistory && location.hash !== '#consultation') {
+        history.pushState(null, '', '#consultation');
+      }
+
+      consultation.classList.add('is-anchor-target');
+      consultation.setAttribute('tabindex', '-1');
+      const root = document.documentElement;
+      const previousScrollBehavior = root.style.scrollBehavior;
+      root.style.scrollBehavior = 'auto';
+      window.scrollTo({ top, left: 0, behavior: 'auto' });
+      window.requestAnimationFrame(() => {
+        window.scrollBy({ top: 1, left: 0, behavior: 'auto' });
+        window.requestAnimationFrame(() => {
+          window.scrollBy({ top: -1, left: 0, behavior: 'auto' });
+          root.style.scrollBehavior = previousScrollBehavior;
+          consultation.focus({ preventScroll: true });
+        });
+      });
+    };
+
+    document.querySelectorAll('a[href="#consultation"]').forEach((link) => {
+      link.addEventListener('click', (event) => {
+        event.preventDefault();
+        showConsultation(true);
+      });
+    });
+
+    if (location.hash === '#consultation') {
+      window.requestAnimationFrame(() => showConsultation(false));
+    }
+  }
+
   let active = path.startsWith(prefix) || (isContact && fromOffer);
   try {
     if (path.startsWith(prefix)) sessionStorage.setItem('raptor_optimization_funnel', '1');
